@@ -627,6 +627,7 @@ pre code {
   width: 100%;
   padding-right: 15px;
   padding-left: 15px;
+  
 }
 
 .col {
@@ -11151,7 +11152,7 @@ hr {
 .card .card-footer {
   padding-top: 1rem;
   padding-bottom: 1rem;
-  padding-left: 0;
+  /* padding-left: 0; */
   padding-right: 0;
 }
 
@@ -11501,7 +11502,7 @@ textarea.form-control {
 .navbar .nav-item .nav-link {
   padding-top: 5px;
   padding-bottom: 5px;
-  font-size: 14px;
+  font-size: 20px;
   font-weight: 600;
 }
 

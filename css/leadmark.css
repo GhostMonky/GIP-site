@@ -574,7 +574,7 @@ pre code {
   }
 }
 
-@media (min-width: 992px) {
+/* @media (min-width: 992px) {
   .container {
     max-width: 960px;
   }
@@ -584,7 +584,7 @@ pre code {
   .container {
     max-width: 1140px;
   }
-}
+} */
 
 .container-fluid {
   width: 100%;
@@ -4505,7 +4505,7 @@ input[type="button"].btn-block {
 
 .nav-tabs .nav-link.active,
 .nav-tabs .nav-item.show .nav-link {
-  color: #495057;
+  color: white;
   background-color: #fff;
   border-color: #dee2e6 #dee2e6 #fff;
 }
@@ -4970,7 +4970,7 @@ input[type="button"].btn-block {
 .navbar-light .navbar-nav .active > .nav-link,
 .navbar-light .navbar-nav .nav-link.show,
 .navbar-light .navbar-nav .nav-link.active {
-  color: #616161;
+  color: white;
 }
 
 .navbar-light .navbar-toggler {

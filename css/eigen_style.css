@@ -6,7 +6,7 @@ iframe{
 
   .column {
     float: left;
-    width: 33.33%;
+    width: 50%;
     text-align: center;
   }
   
@@ -15,6 +15,7 @@ iframe{
     content: "";
     display: table;
     clear: both;
+    
   }
 
 .title-container{
@@ -22,6 +23,31 @@ iframe{
     height: 100%;
     position: relative;
     background-color: #C4E3CB;
-    padding-top: 50px; 
-    padding-bottom: 50px;
+    padding-top: 25px; 
+    padding-bottom: 25px;
+    border-bottom: 3px solid black;
+}
+
+.logo{
+  width: 100%;
+
+}
+
+.begin{
+margin-left: 20px;
+
+}
+
+li {
+  list-style: none;
+  }
+
+.frond-end-back-end{
+  text-align: center;
+  background-color: #C4E3CB;
+  border-bottom: 3px solid black;
+}
+
+body{
+  overflow-x: hidden;
 }
